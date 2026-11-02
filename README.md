@@ -13,7 +13,7 @@ B.Tech Computer Science graduate who builds REST APIs with Java and Spring Boot.
 | Project | Description | Tech |
 |---|---|---|
 | [**Task Management API**](https://github.com/vutladhanush/task-management) | User and task management with a one-to-many relationship, DTOs, and global exception handling | Java 17, Spring Boot, JPA, MySQL |
-| [**FinTrack: Expense Tracker API**](https://github.com/vutladhanush/Finance-Tracker) | Income and expense categories, transactions, and a financial summary (income, expenses, balance) | Java 17, Spring Boot, JPA, MySQL |
+| [**Finance Tracker API**](https://github.com/vutladhanush/Finance-Tracker) | Income and expense categories, transactions, and a financial summary (income, expenses, balance) | Java 17, Spring Boot, JPA, MySQL |
 | [**Student Management System**](https://github.com/vutladhanush/student-learning-management-system) | Student, faculty, marks, and attendance management for Admin, Faculty, and Student roles | Java, Spring Boot, JPA, MySQL |
 
 ---
